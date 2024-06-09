@@ -40,6 +40,7 @@
     {"id":{"name":"obj_raquete_p1","path":"objects/obj_raquete_p1/obj_raquete_p1.yy",},},
     {"id":{"name":"obj_raquete_p2","path":"objects/obj_raquete_p2/obj_raquete_p2.yy",},},
     {"id":{"name":"rm_partida","path":"rooms/rm_partida/rm_partida.yy",},},
+    {"id":{"name":"snd_boing","path":"sounds/snd_boing/snd_boing.yy",},},
     {"id":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},},
     {"id":{"name":"spr_ball","path":"sprites/spr_ball/spr_ball.yy",},},
     {"id":{"name":"spr_colisao","path":"sprites/spr_colisao/spr_colisao.yy",},},
