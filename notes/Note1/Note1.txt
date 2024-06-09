@@ -1,0 +1,14 @@
+ATIVIDADES PARA CRIAR O JOGO
+
+1 - Criar Background - ok
+2 - Criar Raquetes - ok
+2.1 - Fazer Raquete se mover para cima e para baixo - ok
+2.2 - Criar obstacúlo para não deixar a raquete sair da quadra - ok
+2.2.1 - Fazer obstacúlo ser rígido e aplicar colisão nas Raquetes - ok
+2.3 - Aplicar colisão com o obstacúlo - ok
+3 - Criar bola - ok
+3.1 - Fazer ela se mover para algum lado - ok
+3.2 - Fazer ela quicar nas raquetes e paredes - ok
+3.3 - Fazer a bola aumentar a velocidade ao quicar em algo - ok
+
+
