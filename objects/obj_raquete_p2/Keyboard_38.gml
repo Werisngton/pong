@@ -1,4 +1,8 @@
 /// @description Inserir descrição aqui
 // Você pode escrever seu código neste editor
 
-vspeed = -r_vel;
+//Fazendo ele subir apenas se o jogo esta no modo de 2 jogadores
+if (global.dois_jogadores)
+{
+	vspeed = -r_vel;
+}
