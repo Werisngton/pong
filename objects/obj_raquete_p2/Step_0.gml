@@ -16,7 +16,7 @@ if (vspeed >= vel_ia)
 	vspeed = vel_ia;
 }
 
-if (vspeed < -vel_ia)
+if (vspeed <= -vel_ia)
 {
 	vspeed = vel_ia;
 }
