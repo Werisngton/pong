@@ -3,7 +3,7 @@
 
 //Iniciando as variáveis globais do jogo
 //Variável do modo de jogadores do pong
-global.dois_jogadores = true;
+global.dois_jogadores = false;
 
 //Velocidade vertical da bola
 global.velv_bola = 0;
